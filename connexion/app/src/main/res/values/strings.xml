@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Connexion</string>
+    <string name="email">email</string>
+    <string name="connexion">connexion</string>
+    <string name="cr_e_un_nouveau_compte">Crée un nouveau compte</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="email_ou_numero">Email ou numero</string>
+    <string name="connectez_vous_pour_continuer">Connectez-vous pour continuer</string>
+    <string name="bienvenu">Bienvenu</string>
+</resources>
