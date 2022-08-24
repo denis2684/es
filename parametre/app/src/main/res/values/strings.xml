@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">parametre</string>
+    <string name="parametre">Parametre</string>
+    <string name="sid3_ndecoration">sid3\ndecoration</string>
+    <string name="sid3_decoration">SID3 decoration</string>
+    <string name="acceuil">Acceuil</string>
+    <string name="accueil">accueil</string>
+    <string name="todo">TODO</string>
+</resources>

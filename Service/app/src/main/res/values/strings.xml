@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="quel_service_cherchez_vous">Quel service cherchez-vous ?</string>
+    <string name="sid3_decoration">SID3 decoration</string>
+    <string name="d_coration">Décoration</string>
+    <string name="service_traiteur">Service traiteur</string>
+    <string name="location">Location</string>
+    <string name="animation">Animation</string>
+    <string name="valider">Valider</string>
+</resources>
